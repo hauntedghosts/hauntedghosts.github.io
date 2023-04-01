@@ -1,2 +1,0 @@
-# hauntedghosts.github.io
-Chipeater
