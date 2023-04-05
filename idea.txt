@@ -1,0 +1,2 @@
+- Site in a similar style to BrickLink, where users can create a part list, and the website will match the best results from different vendors.
+- Order pre-made kits
